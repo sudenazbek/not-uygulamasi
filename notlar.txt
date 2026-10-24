@@ -10,3 +10,4 @@ git add : degisiklikleri staging'e alir
 git commit : staging'dekileri kaydeder
 git status : dosyalarin durumunu gosterir
 git log : commit gecmisini listeler
+git branch : branch'leri listeler

@@ -1,0 +1,12 @@
+ls : bulundugum klasordeki dosyalari listeler
+cd : klasor degistirir
+pwd : bulundugum dizinin yolunu gosterir
+mkdir : yeni klasor olusturur
+touch : bos dosya olusturur
+
+--- Hafta 2: Git komutlari ---
+git init : yeni repo baslatir
+git add : degisiklikleri staging'e alir
+git commit : staging'dekileri kaydeder
+git status : dosyalarin durumunu gosterir
+git log : commit gecmisini listeler
